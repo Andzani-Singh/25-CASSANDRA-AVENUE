@@ -101,6 +101,12 @@ Built with:
 Icons by Font Awesome
 Images by Unsplash
 
----
+👨‍💻 Developer
+Mavangwa Andzani Singh Diploma in Information Technology (Software Development) Vaal University of Technology South Africa 🇿🇦
 
-**Developer**: Mavangwa Andzani Singh
+📄 License
+This project was developed as a custom software solution for a client and was subsequently sold.
+
+The source code is proprietary and is not publicly available.
+
+© 2026 Mavangwa Andzani Singh. All rights reserved.
